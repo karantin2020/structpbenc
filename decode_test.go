@@ -1,12 +1,12 @@
-package structpb_test
+package structpbenc_test
 
 import (
 	"fmt"
 	"testing"
 
-	pb "github.com/golang/protobuf/ptypes/struct"
-	"github.com/kei2100/structpb-enc"
+	structpb "github.com/karantin2020/structpbenc"
 	"github.com/stretchr/testify/assert"
+	pb "google.golang.org/protobuf/types/known/structpb"
 )
 
 func ExampleDecode() {

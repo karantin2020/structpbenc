@@ -1,8 +1,8 @@
-module github.com/kei2100/structpb-enc
+module github.com/karantin2020/structpbenc
 
 go 1.13
 
 require (
-	github.com/golang/protobuf v1.3.2
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.5.1
+	google.golang.org/protobuf v1.22.0
 )

@@ -1,11 +1,11 @@
-# structpb-enc
+# structpbenc
 
 Encode map (or struct) to protobuf Struct, and decode from protobuf Struct to map
 
 ## Installation
 
 ```bash
-go get "github.com/kei2100/structpb-enc"
+go get "github.com/karantin2020/structpbenc"
 ```
 
 ## Examples
